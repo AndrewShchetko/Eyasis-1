@@ -1,0 +1,5 @@
+tqdm
+wikipedia
+nltk
+pyarrow
+pandas
